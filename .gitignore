@@ -1,0 +1,4 @@
+build/
+bin/
+*.pdf
+drive_pilha.cpp
